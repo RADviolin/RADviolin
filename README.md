@@ -1,25 +1,3 @@
-\# About me
-
-
-
-\- 🔭 I’m currently working on ...
-
-\- 🌱 I’m currently learning ...
-
-\- 👯 I’m looking to collaborate on ...
-
-\- 🤔 I’m looking for help with ...
-
-\- 💬 Ask me about ...
-
-\- 📫 How to reach me: ...
-
-\- ⚡ Fun fact: ...
-
-
-
-\-->
-
 \### Hi there 👋<h2> I'm RADviolin</h2>
 
 
@@ -44,7 +22,11 @@
 
 &#x20; 
 
-\- 👯 \&nbsp; Part of ,,,
+\- 👯 \&nbsp; Part of FRC Robotics Team 7111
+
+Science Olympiad Div C
+
+Science Olympiad Div B Coach
 
 
 
@@ -60,29 +42,6 @@
 
 \- 💻 \&nbsp; Java | Python | JavaScript
 
-
-
-\- 🌐 \&nbsp; HTML | CSS | Bootstrap | Spring MVC | Springboot | Django
-
-
-
-\- 🛢 \&nbsp; MySQL | MongoDB | Hibernate
-
-&#x20; 
-
-<!--
-
-
-
-\- 🛢 \&nbsp; MySQL | MongoDB
-
-
-
-\- 🔧 \&nbsp; Git | Markdown | Selenium | Tidyverse
-
-
-
-\- 🖥 \&nbsp; Illustrator| Photoshop | InDesign
 
 
 
