@@ -1,4 +1,6 @@
-\### Hi there 👋<h2> I'm RADviolin</h2>
+
+
+<h3> About Me </h3>
 
 
 
@@ -6,15 +8,7 @@
 
 
 
-<h3> 💻 About Me </h3>
-
-
-
-
-
-
-
-\- Exploring new technologies and developing Web Applications.
+\- Working on coding, CADing, and design
 
 
 
@@ -24,9 +18,9 @@
 
 \- Part of FRC Robotics Team 7111
 
-Science Olympiad Div C
+\- Science Olympiad Div C
 
-Science Olympiad Div B Coach
+\- Science Olympiad Div B Asst. Coach
 
 
 
@@ -35,28 +29,7 @@ Science Olympiad Div B Coach
 <h3>🛠 Tech Stack</h3>
 
 
-
-
-
-
-
 \- Java | Python | JavaScript
-
-
-
-
-
-
-
-<h3> I Want To Learn</h3>
-
-
-
-\- MATLAB 
-
-
-
-<hr>
 
 
 
@@ -73,9 +46,6 @@ Science Olympiad Div B Coach
 
 
 </p>
-
-
-
 
 
 
