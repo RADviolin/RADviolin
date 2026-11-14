@@ -24,7 +24,7 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 
 
 
@@ -48,10 +48,6 @@
 
 
 
-\- 🌱 \&nbsp; Balancing between algorithms and elegant code.
-
-
-
 
 
 <h3>🛠 Tech Stack</h3>
@@ -62,7 +58,7 @@
 
 
 
-\- 💻 \&nbsp; Java | Python | MySQL | JavaScript
+\- 💻 \&nbsp; Java | Python | JavaScript
 
 
 
@@ -118,7 +114,7 @@
 
 
 
-<a href="mailto:myemail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-myemail@gmail.com-blue?style=flat-square\&logo=gmail"></a>
+<a href="mailto:maddieyous@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maddieyouso@gmail.com-blue?style=flat-square\&logo=gmail"></a>
 
 
 
@@ -126,13 +122,6 @@
 
 
 
-
-
-<hr>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" align='right'>
 
 
 
