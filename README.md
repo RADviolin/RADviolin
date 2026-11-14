@@ -1,4 +1,4 @@
-
+<div style="background-color: #DCEEFF; padding: 15px; border-radius: 10px;">
 
 <h3> About Me </h3>
 
