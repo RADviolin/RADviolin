@@ -16,26 +16,13 @@
 
 &#x20; 
 
-\- Part of FRC Robotics Team 7111
+\- FRC Robotics Team 7111
 
 \- Science Olympiad Div C
 
 \- Science Olympiad Div B Asst. Coach
 
 
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-\- Java | Python | JavaScript
-
-
-
-<h3>  Connect with Me </h3>
-
-<br>
 
 <p align="center">
 
