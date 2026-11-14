@@ -1,4 +1,6 @@
 <div style="background-color: #DCEEFF; padding: 15px; border-radius: 10px;">
+![Python](https://img.shields.io/badge/Python-Computer%20Vision-lightblue)
+![Java](https://img.shields.io/badge/Java-Robotics-lightblue)
 
 <h3> About Me </h3>
 
