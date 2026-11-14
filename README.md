@@ -14,15 +14,15 @@
 
 
 
-\- 🤔 \&nbsp; Exploring new technologies and developing Web Applications.
+\- Exploring new technologies and developing Web Applications.
 
 
 
-\- 🎓 \&nbsp; Pursuing ....
+\- Pursuing advanced JAVA, Python, and Arduino Work, along with OnShape Certification
 
 &#x20; 
 
-\- 👯 \&nbsp; Part of FRC Robotics Team 7111
+\- Part of FRC Robotics Team 7111
 
 Science Olympiad Div C
 
@@ -40,12 +40,7 @@ Science Olympiad Div B Coach
 
 
 
-\- 💻 \&nbsp; Java | Python | JavaScript
-
-
-
-
-\-->
+\- Java | Python | JavaScript
 
 
 
@@ -53,11 +48,11 @@ Science Olympiad Div B Coach
 
 
 
-<h3>🛠 I Want To Learn</h3>
+<h3> I Want To Learn</h3>
 
 
 
-\- 🔧 \&nbsp; AWS | Microservices
+\- MATLAB 
 
 
 
@@ -65,7 +60,7 @@ Science Olympiad Div B Coach
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3>  Connect with Me </h3>
 
 <br>
 
