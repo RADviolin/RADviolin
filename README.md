@@ -13,7 +13,7 @@
 
 
 
-\- Pursuing advanced JAVA, Python, and Arduino Work, along with OnShape Certification
+\- JAVA, Python, and Arduino C++, along with OnShape Certification
 
 &#x20; 
 
