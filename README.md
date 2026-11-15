@@ -21,7 +21,6 @@
 
 \- Science Olympiad Div C
 
-\- Science Olympiad Div B Asst. Coach
 
 
 
