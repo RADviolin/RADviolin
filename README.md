@@ -9,7 +9,7 @@
 
 
 
-\- Working on coding, CADing, and design
+\- Working on coding, CADing, and mechanical prototyping and design
 
 
 
