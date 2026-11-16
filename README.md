@@ -3,11 +3,10 @@
 
 
 
-<div align="center">
-  <img src="https://placehold.co/1000x180/DCEEFF/17365D?text=About+Me" width="100%">
-</div>
 
-
+<p align="center">
+  <img src="https://placehold.co/1000x70/DCEEFF/17365D?text=About+Me" width="100%">
+</p>
 
 
 \- Coding, CADing, and mechanical prototyping and design
