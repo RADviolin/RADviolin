@@ -1,15 +1,16 @@
 <div style="background-color: #DCEEFF; padding: 15px; border-radius: 10px;">
 
 
-<h3> About Me </h3>
+
+
+<div align="center">
+  <img src="https://placehold.co/1000x180/DCEEFF/17365D?text=About+Me" width="100%">
+</div>
 
 
 
 
-
-
-
-\- Working on coding, CADing, and mechanical prototyping and design
+\- Coding, CADing, and mechanical prototyping and design
 
 
 
