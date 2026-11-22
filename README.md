@@ -13,7 +13,7 @@
 
 
 
-\- JAVA, Python, and Arduino C++, along with OnShape Certification
+\- JAVA, Python, and Arduino C++
 
 &#x20; 
 
