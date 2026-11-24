@@ -19,7 +19,7 @@
 
 \- FRC Robotics Team 7111
 
-\- Science Olympiad Div C: EV, Thermo, RemSen, ExpDesign, Forensics, Chem Lab.
+\- Science Olympiad Div C: EV, Thermo, Remote Sensing, ExpDesign, Forensics, Chem Lab.
 
 
 
