@@ -11,6 +11,11 @@ I'm currently seeking a high school internship where I can learn from experience
 - **Teamwork:** Collaborating on technical challenges and communicating ideas
 
 
+FRC Robotics
+
+I am on the RAD Robotics Team 7111 out of Huntsville. I was selected as Operator for our Drive Team as well as Pit Team for Competition. In the 2025-26 season, I was on the Mechanical Team. This summer, I took classes focused on CAD, autonomous and vision software, coding, and electrical systems.
+Our team was on the 1st-place alliance for Smoky Mountain Regional.
+
 Science Olympiad
 
 I compete in:
@@ -21,6 +26,8 @@ I compete in:
 - Experimental Design
 - Forensics
 - Chemistry Lab
+
+  Last year, I received top 3 individual medals in Remote Sensing, Scrambler (engineering build), and Experimental Design. 
 
 
 - Building stronger programming skills
