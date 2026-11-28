@@ -1,42 +1,33 @@
-<div style="background-color: #DCEEFF; padding: 15px; border-radius: 10px;">
+ ## RADviolin
+
+I'm a high school student interested in engineering, programming, and solving real-world problems through hands-on projects.
+
+I'm currently seeking a high school internship where I can learn from experienced engineers and contribute enthusiasm, curiosity, and growing technical skills.
 
 
+- **Robotics:** Mechanical design, CAD, programming, and prototyping with FRC Team 7111
+- **Programming:** Java, Python, and Arduino C++ (starting JavaScript)
+- **Science and engineering:** Applied problem solving through Science Olympiad Division C
+- **Teamwork:** Collaborating on technical challenges and communicating ideas
 
 
+Science Olympiad
 
-<p align="center">
-  <img src="https://placehold.co/1000x70/DCEEFF/17365D?text=About+Me" width="100%">
-</p>
+I compete in:
 
-
-\- Coding, CADing, and mechanical prototyping and design
-
-
-
-\- JAVA, Python, and Arduino C++
-
-&#x20; 
-
-\- FRC Robotics Team 7111
-
-\- Science Olympiad Div C: EV, Thermo, Remote Sensing, ExpDesign, Forensics, Chem Lab.
+- Electric Vehicle (autonomous routine with electric and mechanical prototyping and design work)
+- Thermodynamics
+- Remote Sensing (Satellites test)
+- Experimental Design
+- Forensics
+- Chemistry Lab
 
 
+- Building stronger programming skills
+- Improving engineering and CAD design skills
+- Turning ideas into tested, reliable prototypes
 
+## Contact
 
-<p align="center">
-
-
-
-<a href="mailto:maddieyous@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maddieyouso@gmail.com-blue?style=flat-square\&logo=gmail"></a>
-
-
-
-</p>
-
-
-
-<hr>
-
-
+[![Email](https://img.shields.io/badge/Email-maddieyouso@gmail.com-blue?style=flat-square&logo=gmail)](mailto:maddieyouso@gmail.com)
 
